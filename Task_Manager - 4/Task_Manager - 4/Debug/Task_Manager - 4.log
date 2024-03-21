@@ -1,0 +1,5 @@
+﻿  main.cpp
+  TaskManager.cpp
+C:\Users\gabri\source\repos\Task_Manager - 4\Task_Manager - 4\TaskManager.cpp(102,28): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Task_Manager - 4.vcxproj -> C:\Users\gabri\source\repos\Task_Manager - 4\Debug\Task_Manager - 4.exe
